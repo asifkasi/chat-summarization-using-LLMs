@@ -1,0 +1,5 @@
+openai
+pandas
+google-generative-ai
+google-api-core
+python-dotenv
